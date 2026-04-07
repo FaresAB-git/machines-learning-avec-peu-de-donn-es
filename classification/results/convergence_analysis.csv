@@ -1,0 +1,7 @@
+Modèle,N_convergence
+LogisticReg,50
+SVM_RBF,20
+KNN,35
+RandomForest,20
+XGBoost,50
+TabPFN,20
