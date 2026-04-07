@@ -1,0 +1,7 @@
+Modèle,N_convergence
+Ridge,20
+SVR_RBF,75
+KNN,35
+RandomForest,35
+XGBoost,35
+GPR,35
